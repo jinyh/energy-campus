@@ -9,3 +9,5 @@ https://jinyh.github.io/energy-campus/
 数据为公开 SimBench 数据的仿真派生投影，遵循 ODbL 1.0 / DbCL 1.0，原许可和署名见 licenses/。来源映射见 replay/monthly/310912a4ad924de6/source.json；投影清单及原结果SHA256见 replay-manifest.json。前端随包包含 Three.js、React、ECharts，许可见 licenses/。
 
 下载PPT与PDF见 downloads/。method-results.md 为本次方法及核验结果报告。完整原始仿真执行记录和复算环境在本机交付包中，未上传524MB原结果或本机私有资料。
+
+场景资产版本 r6，视觉仍待终验。当前 PPT/PDF 已同步；完整离线计算包保留 r5。
